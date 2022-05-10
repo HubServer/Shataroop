@@ -12,6 +12,7 @@ body {
     }
     
     header {
+        text-align: center;
         padding: 40px;
         background-color: rgb(176, 149, 248);
     }
@@ -29,11 +30,16 @@ body {
     }
     body h1 {
         text-align: left;
+        padding-left: 40px;
     }
     .right {
         display: block;
-        margin-left:60%;
-        margin-right:10%;
+        padding-right: 50px;
+        padding-left: 1000px;
         margin-top: -15%;
       }
+    .body {
+        padding-left: 40px;
+        width: 500px;
+    }
       
