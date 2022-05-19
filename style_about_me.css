@@ -31,7 +31,7 @@ nav a {
 }
 .text {
     padding-left: 40px;
-    width: 500px;
+    width: 800px;
     float: left;
 }
 body {
@@ -42,5 +42,6 @@ body {
     padding-right: 5%; 
     display: inline;
     float: right;
+    padding-bottom: 5%;
+    height: 400px;
 }
-      
